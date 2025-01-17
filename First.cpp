@@ -4,4 +4,3 @@ int main(){
     cout << "yash" << "\n";
     return 0;
 }
-
